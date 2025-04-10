@@ -5,9 +5,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class NotesApplication {
+// for uat
 
 	public static void main(String[] args) {
 		SpringApplication.run(NotesApplication.class, args);
 	}
+// uat
 
 }
