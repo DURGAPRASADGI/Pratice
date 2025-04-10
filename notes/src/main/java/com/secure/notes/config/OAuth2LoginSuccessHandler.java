@@ -34,6 +34,8 @@ import lombok.RequiredArgsConstructor;
 @RequiredArgsConstructor
 public class OAuth2LoginSuccessHandler extends SavedRequestAwareAuthenticationSuccessHandler {
 
+//its for devbranch
+
 	@Autowired
 	private final UserService userService;
 
